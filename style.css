@@ -1,0 +1,33 @@
+body,html{
+    width: 100x; height: 100%;
+    background: url(music.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-clip: padding-box;
+    
+}
+h1{
+    
+    text-align: center;
+    font-style: italic;
+    
+}
+p{
+    text-align: left;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+#btn1{
+    background-color: gray;
+    border-style: outset;
+    border-radius: 4px;
+  }
+  #btn1:hover{
+    background-color: #BCE6E1;
+    border-width: thick;
+    border-color: #75A8C6;
+    color: black;
+  
+  }
